@@ -1,0 +1,7 @@
+22:27:25.581 [main] INFO  resources.BaseClass - Driver is initialized-ValidateNavigationBar
+22:27:28.598 [main] INFO  resources.BaseClass - Browser Invoked
+22:27:31.762 [main] INFO  resources.BaseClass - Driver is initialized-Validate Title
+22:27:34.694 [main] INFO  resources.BaseClass - Navigated to qaclickacademy home page
+22:27:34.764 [main] INFO  resources.BaseClass - Successfully validated text message
+22:27:39.764 [main] INFO  resources.BaseClass - text
+22:27:42.592 [main] INFO  resources.BaseClass - text

@@ -1,0 +1,7 @@
+14:05:31.813 [TestNG] INFO  resources.BaseClass - text
+14:05:34.244 [TestNG] INFO  resources.BaseClass - text
+17:28:47.890 [TestNG] INFO  resources.BaseClass - Driver is initialized-Validate Title
+17:28:47.983 [TestNG] INFO  resources.BaseClass - Driver is initialized-ValidateNavigationBar
+17:28:52.249 [TestNG] INFO  resources.BaseClass - Browser Invoked
+17:28:52.336 [TestNG] INFO  resources.BaseClass - Navigated to qaclickacademy home page
+17:28:52.485 [TestNG] INFO  resources.BaseClass - Navigation bar is displayed
